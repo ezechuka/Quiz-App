@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9800</color>
+    <color name="colorPrimaryDark">#f57c00</color>
+    <color name="colorAccent">#50514f</color>
+    <color name="buttonColorBackground">#ff00aaff</color>
+    <color name="quizBackground">#d6d7d7</color>
+    <color name="buttonTextColor">#fff</color>
+</resources>
